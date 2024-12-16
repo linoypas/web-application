@@ -4,6 +4,3 @@ tmp
 tests
 server.js
 app.js.tmp
-controllers/comments.js
-routes/comments.js
-request.rest
