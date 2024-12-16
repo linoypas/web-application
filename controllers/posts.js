@@ -1,5 +1,4 @@
 const Posts = require('../models/posts');
-blabla
 
 const getPosts = async (req,res) => {
     const owner = req.query.owner;
